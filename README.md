@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sitio web personal
+  Persona website
 </h1>
 
-Hecho en <a href="https://next.gatsbyjs.org/">Gatsby</a>  
+Made in <a href="https://next.gatsbyjs.org/">Gatsby</a>  
