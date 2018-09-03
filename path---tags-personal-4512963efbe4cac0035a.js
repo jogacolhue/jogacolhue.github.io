@@ -1,0 +1,2 @@
+webpackJsonp([27939762695765],{340:function(e,t){e.exports={pathContext:{posts:[{html:"<h5>Hi everyone.</h5>",id:"C:/Users/PC-Joselo/jogacolhue.github.io/src/pages/first post/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"2018-09-02T23:43:00+00:00",path:"/firstpost",title:"Hello World",excerpt:"Welcome to my blog.",tags:["Personal"]}}],tagName:"Personal"}}}});
+//# sourceMappingURL=path---tags-personal-4512963efbe4cac0035a.js.map
