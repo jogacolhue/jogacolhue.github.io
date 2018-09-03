@@ -1,5 +1,4 @@
-module.exports = {
-  pathPrefix: "/jogacolhue.github.io",
+module.exports = { 
   siteMetadata: {
     title: 'Jose Colque',
   },
